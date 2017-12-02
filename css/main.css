@@ -10,6 +10,7 @@ h1, h2, h3{
   font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
+  color: blue;
 
 }
 
@@ -155,7 +156,7 @@ header nav a{
 #about .full-width{
   height: 100vh;
   width: auto;
-  background-color: #e0d8c4;
+  background-color: #f5f5f5;
 }
 
 #about .two-third{
