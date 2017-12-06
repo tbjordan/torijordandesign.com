@@ -10,7 +10,6 @@ h1, h2, h3{
   font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
-
 }
 
 h2{
@@ -21,6 +20,7 @@ h4{
   font-weight: normal;
   font-size: 18px;
   text-transform: uppercase;
+
 }
 
 /***GRID***/
@@ -54,13 +54,14 @@ h4{
 header{
   height: 100vh;
   max-width: 100%;
-  background-image: url('../img/background.png');
-  background-size: cover;
+  /*background-image: url('../img/background.png');
+  background-size: cover;*/
+  background-color: #f5f5f5;
 }
 
 header h1{
   color: white;
-  text-align: center;
+  text-align: left;
   font-size: 48px;
 
 }
@@ -69,7 +70,7 @@ header h3{
   color: white;
   font-family: 'Courier', serif;
   font-weight: normal;
-  text-align: center;
+  text-align: left;
   clear: both;
 }
 
